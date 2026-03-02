@@ -64,9 +64,9 @@ Currently immersing myself in **JavaScript** to transition into backend developm
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adntha&show_icons=true&theme=radical&include_all_commits=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adntha&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Adntha)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adntha&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adntha&layout=compact&theme=radical&langs_count=6)](https://github.com/Adntha)
 
 ---
 
