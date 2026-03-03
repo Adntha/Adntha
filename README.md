@@ -11,7 +11,7 @@ I'm a curious and highly adaptable learner who thrives on building, experimentin
 - 🎯 **Current Focus:** Mastering JavaScript and building a strong backend foundation
 - 🌱 **Always Learning:** Eager to absorb knowledge and adapt to real-world tech industry standards
 - 💬 **Passionate About:** Web development, UI/UX design, and creating user-friendly applications
-- 🏕️ **Outside the Code:** You'll find me enjoying outdoor activities—camping in Bedugul is a personal favorite!
+- 🏕️ **Outside the Code:** You'll find me enjoying outdoor such as activities—camping in Bedugul is a personal favorite!
 - 📧 **Let's Connect:** Always open to collaboration and learning from the community
 
 ---
@@ -38,21 +38,11 @@ I'm a curious and highly adaptable learner who thrives on building, experimentin
 
 ### 🌿 Herbal Plant Website with Chatbot
 An interactive platform for exploring herbal plant information, built collaboratively with a talented 3-person team.
-- **Tech Stack:** HTML, CSS, Python, MySQL
-- **Highlights:** 
-  - Interactive chatbot for plant recommendations
-  - Comprehensive herbal plant database
-  - User-friendly information display
-- **Skills Applied:** Frontend development, database design, full-stack integration
+- **Skills Applied:** Database design, Laravel framework
 
 ### 🧾 Split-Bill Web Design
 A beautifully designed interface for a bill-splitting application, showcasing UI/UX design principles.
 - **Tech Stack:** Figma (UI/UX Design)
-- **Highlights:**
-  - Clean, intuitive user interface
-  - Thoughtful user experience flow
-  - Modern design patterns and aesthetics
-- **Skills Applied:** UI/UX Design, Application Prototyping
 
 ---
 
@@ -77,15 +67,6 @@ I'd love to collaborate, share ideas, or simply chat about web development and d
 - 🐙 **GitHub:** [github.com/Adntha](https://github.com/Adntha)
 - 💼 **LinkedIn:** [Gede Farel Adinatha Sonni](https://id.linkedin.com/in/gede-farel-adinatha-sonni-704b41356)
 - 🌐 **Portfolio:** [adntha.github.io/website-po](https://adntha.github.io/website-po)
-
----
-
-## ⚡ Quick Facts
-
-- 🏕️ **Adventure Seeker:** Love outdoor activities and recently had an amazing camping trip to Bedugul
-- 📚 **Continuous Learner:** Embracing the student mindset and eager to master new technologies
-- 🎨 **Design Enthusiast:** Passionate about creating intuitive and beautiful user interfaces
-- 🚀 **Growth-Oriented:** Excited to keep building, failing, and improving every single day
 
 ---
 
