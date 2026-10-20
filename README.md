@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-Hi! I'm **Farel Adinatha**, an Information Systems student at Ganesha University of Education with a passion for web development and design. I'm on an exciting journey transitioning from frontend development into backend engineering, and I'm committed to building a solid technical foundation for the professional world.
+Hi! I'm **Farel Adinatha**, an Information Systems student at Ganesha University of Education with a passion for web development. I'm on an exciting journey in backend engineering, and I'm committed to building a solid technical foundation for the professional world.
 
 ---
 
@@ -8,10 +8,10 @@ Hi! I'm **Farel Adinatha**, an Information Systems student at Ganesha University
 
 I'm a curious and highly adaptable learner who thrives on building, experimenting, and continuously improving. Currently comfortable crafting interfaces with HTML and CSS, writing logic in Python, and prototyping with Figma, I'm now diving deep into **JavaScript** to strengthen my backend development skills. I believe in learning by doing and embracing failures as opportunities to grow.
 
-- 🎯 **Current Focus:** Mastering JavaScript and building a strong backend foundation
+- 🎯 **Current Focus:** Mastering Python and building a strong backend foundation
 - 🌱 **Always Learning:** Eager to absorb knowledge and adapt to real-world tech industry standards
 - 💬 **Passionate About:** Web development, UI/UX design, and creating user-friendly applications
-- 🏕️ **Outside the Code:** You'll find me enjoying outdoor such as activities—camping in Bedugul is a personal favorite!
+- 🏕️ **Outside the Code:** You'll find me enjoying some games when i had nothing to do
 - 📧 **Let's Connect:** Always open to collaboration and learning from the community
 
 ---
@@ -20,13 +20,11 @@ I'm a curious and highly adaptable learner who thrives on building, experimentin
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -48,7 +46,7 @@ A beautifully designed interface for a bill-splitting application, showcasing UI
 
 ## 🎨 What I'm Working On
 
-Currently immersing myself in **JavaScript** to transition into backend development. I'm building projects that combine my frontend expertise with backend logic, learning frameworks, and best practices to create full-stack applications.
+Currently immersing myself in **Python** to transition into backend development. I'm building projects that combine my frontend expertise with backend logic, learning frameworks, and best practices to create full-stack applications.
 
 ---
 
@@ -62,7 +60,7 @@ Currently immersing myself in **JavaScript** to transition into backend developm
 
 ## 🤝 Let's Connect!
 
-I'd love to collaborate, share ideas, or simply chat about web development and design!
+I'd love to collaborate, share ideas, or simply chat about web development!
 
 - 🐙 **GitHub:** [github.com/Adntha](https://github.com/Adntha)
 - 💼 **LinkedIn:** [Gede Farel Adinatha Sonni](https://id.linkedin.com/in/gede-farel-adinatha-sonni-704b41356)
