@@ -6,7 +6,7 @@ Hi! I'm **Farel Adinatha**, an Information Systems student at Ganesha University
 
 ## 🚀 About Me
 
-I'm a curious and highly adaptable learner who thrives on building, experimenting, and continuously improving. Currently comfortable crafting interfaces with HTML and CSS, writing logic in Python, and prototyping with Figma, I'm now diving deep into **JavaScript** to strengthen my backend development skills. I believe in learning by doing and embracing failures as opportunities to grow.
+I'm a curious and highly adaptable learner who thrives on building, experimenting, and continuously improving. Currently comfortable crafting interfaces with HTML and CSS, writing logic in Python, and prototyping with Figma, I'm now diving deep into **Python** to strengthen my backend development skills. I believe in learning by doing and embracing failures as opportunities to grow.
 
 - 🎯 **Current Focus:** Mastering Python and building a strong backend foundation
 - 🌱 **Always Learning:** Eager to absorb knowledge and adapt to real-world tech industry standards
