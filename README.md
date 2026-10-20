@@ -32,18 +32,6 @@ I'm a curious and highly adaptable learner who thrives on building, experimentin
 
 ---
 
-## 📌 Featured Projects
-
-### 🌿 Herbal Plant Website with Chatbot
-An interactive platform for exploring herbal plant information, built collaboratively with a talented 3-person team.
-- **Skills Applied:** Database design, Laravel framework
-
-### 🧾 Split-Bill Web Design
-A beautifully designed interface for a bill-splitting application, showcasing UI/UX design principles.
-- **Tech Stack:** Figma (UI/UX Design)
-
----
-
 ## 🎨 What I'm Working On
 
 Currently immersing myself in **Python** to transition into backend development. I'm building projects that combine my frontend expertise with backend logic, learning frameworks, and best practices to create full-stack applications.
